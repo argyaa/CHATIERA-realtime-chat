@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837469532066",
+    "project_id": "chat-app-f72cd",
+    "storage_bucket": "chat-app-f72cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837469532066:android:7698e61d4a3ce6542d4cfb",
+        "android_client_info": {
+          "package_name": "com.argya.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837469532066-t39gi2erb5l1q82u9m968gc30a1fgfpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrXbaMyqmpaY91mEUrkWrewxpqg7OKG0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837469532066-t39gi2erb5l1q82u9m968gc30a1fgfpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
